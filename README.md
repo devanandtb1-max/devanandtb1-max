@@ -1,25 +1,25 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- CYBERPUNK HEADER BANNER // NEURAL OS INTERFACE v4.2                -->
+<!-- CYBERPUNK ALL-RED HEADER BANNER // NEURAL OS INTERFACE v4.2        -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090D,25:11141B,60:FF1744,82:9D4EDD,100:00D9FF&height=250&section=header&text=DEVA%20NAND%20T.B&fontSize=52&fontColor=F5F5F5&fontAlignY=36&desc=AI%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER%20%E2%80%94%20CYBERNETIC%20SYSTEMS%20%2F%2F%20INTELLIGENT%20AUTOMATION&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Deva Nand T.B Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090D,35:36000A,70:D6001C,100:FF1744&height=250&section=header&text=DEVA%20NAND%20T.B&fontSize=52&fontColor=F5F5F5&fontAlignY=36&desc=AI%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER%20%E2%80%94%20CYBERNETIC%20SYSTEMS%20%2F%2F%20INTELLIGENT%20AUTOMATION&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Deva Nand T.B Header Banner"/>
 
-<!-- Terminal Typing Simulation (Orbitron Neon Red & Cyan) -->
+<!-- Terminal Typing Simulation (Orbitron Pure Neon Red) -->
 <a href="https://github.com/devanandtb1-max">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&pause=1200&color=FF1744&center=true&vCenter=true&width=680&lines=%3E+INITIALIZING+CYBERNETIC+NEURAL+SYSTEMS...;%3E+OPERATOR%3A+DEVA+NAND+T.B+%7C+AI+ENGINEER;%3E+SPECIALIZATION%3A+RAG+%C2%B7+AUTONOMOUS+AGENTS+%C2%B7+AUTOMATION;%3E+STATUS%3A+ONLINE+%2F%2F+MISSION-CRITICAL+EXECUTION+%F0%9F%94%B4" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- System Telemetry & Visitor Metrics -->
+<!-- System Telemetry & Visitor Metrics (All Red Theme) -->
 <p align="center">
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE%20%F0%9F%94%B4-FF1744?style=for-the-badge&labelColor=11141B" alt="System Status"/>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=devanandtb1-max&style=for-the-badge&color=00D9FF&labelColor=11141B&label=ACCESS+TELEMETRY" alt="Visitor Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=devanandtb1-max&style=for-the-badge&color=FF1744&labelColor=11141B&label=ACCESS+TELEMETRY" alt="Visitor Counter"/>
   &nbsp;
   <a href="https://github.com/devanandtb1-max?tab=followers">
-    <img src="https://img.shields.io/github/followers/devanandtb1-max?style=for-the-badge&color=9D4EDD&labelColor=11141B&label=NETWORK+NODES" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/devanandtb1-max?style=for-the-badge&color=D6001C&labelColor=11141B&label=NETWORK+NODES" alt="Followers"/>
   </a>
   &nbsp;
   <a href="https://devanandtb1-max.github.io/cyber_mode/">
@@ -68,11 +68,11 @@ My core focus centers on the intersection of **applied machine learning, enterpr
     <td width="50%" valign="top">
       <h4>🧠 AI & MACHINE LEARNING</h4>
       <img src="https://img.shields.io/badge/Machine%20Learning-FF1744?style=for-the-badge&logoColor=white" alt="ML"/>
-      <img src="https://img.shields.io/badge/NLP-00D9FF?style=for-the-badge&logoColor=black" alt="NLP"/>
-      <img src="https://img.shields.io/badge/RAG%20Pipelines-9D4EDD?style=for-the-badge&logoColor=white" alt="RAG"/>
+      <img src="https://img.shields.io/badge/NLP-D6001C?style=for-the-badge&logoColor=white" alt="NLP"/>
+      <img src="https://img.shields.io/badge/RAG%20Pipelines-990011?style=for-the-badge&logoColor=white" alt="RAG"/>
       <br/>
       <img src="https://img.shields.io/badge/LLMs-FF1744?style=for-the-badge&logoColor=white" alt="LLMs"/>
-      <img src="https://img.shields.io/badge/AI%20Agents-00D9FF?style=for-the-badge&logoColor=black" alt="Agents"/>
+      <img src="https://img.shields.io/badge/AI%20Agents-D6001C?style=for-the-badge&logoColor=white" alt="Agents"/>
       <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
     </td>
   </tr>
@@ -80,7 +80,7 @@ My core focus centers on the intersection of **applied machine learning, enterpr
     <td width="50%" valign="top">
       <h4>🔄 AUTOMATION & WORKFLOWS</h4>
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-      <img src="https://img.shields.io/badge/RPA%20Robotics-00D9FF?style=for-the-badge&logoColor=black" alt="RPA"/>
+      <img src="https://img.shields.io/badge/RPA%20Robotics-D6001C?style=for-the-badge&logoColor=white" alt="RPA"/>
       <img src="https://img.shields.io/badge/Workflow%20Automation-FF1744?style=for-the-badge&logoColor=white" alt="Automation"/>
     </td>
     <td width="50%" valign="top">
@@ -119,7 +119,7 @@ My core focus centers on the intersection of **applied machine learning, enterpr
       <p><b>Key Contribution:</b> Built automated SKU demand prediction, time-series feature engineering with seasonal decomposition, and real-time database migration.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Chronos--Bolt-FF1744?style=flat-square"/>
-      <img src="https://img.shields.io/badge/LightGBM-00D9FF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/LightGBM-D6001C?style=flat-square"/>
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
     </td>
@@ -130,7 +130,7 @@ My core focus centers on the intersection of **applied machine learning, enterpr
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Legal--BERT-FF1744?style=flat-square"/>
       <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-      <img src="https://img.shields.io/badge/NLP%20OCR-00D9FF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/NLP%20OCR-D6001C?style=flat-square"/>
     </td>
   </tr>
   <tr>
@@ -149,8 +149,8 @@ My core focus centers on the intersection of **applied machine learning, enterpr
       <p><b>Key Contribution:</b> Designed client-side GZIP asset decompression, reactive mouse-mask shaders, and zero-dependency modular UI layout.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/Glassmorphism-FF1744?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Orbitron-00D9FF?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Live%20Demo-3ECF8E?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Orbitron-D6001C?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Live%20Demo-FF1744?style=flat-square"/>
     </td>
   </tr>
   <tr>
@@ -161,7 +161,7 @@ My core focus centers on the intersection of **applied machine learning, enterpr
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Web%20NFC-FF1744?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Fintech-00D9FF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Fintech-D6001C?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
       <h3>🏋️ <a href="https://github.com/devanandtb1-max/AI-Personalized-Health-Coach">AI Personalized Health & Telemetry Coach</a></h3>
@@ -181,11 +181,11 @@ My core focus centers on the intersection of **applied machine learning, enterpr
 
 <div align="center">
 
-<!-- GitHub Stats (Cyberpunk Palette: #08090D background, #FF1744 border, #00D9FF icons) -->
-<img src="https://github-readme-stats.vercel.app/api?username=devanandtb1-max&show_icons=true&bg_color=08090D&border_color=FF1744&icon_color=00D9FF&title_color=FF1744&text_color=F5F5F5&hide_border=false&rank_icon=github&count_private=true" height="180" alt="GitHub Stats"/>
+<!-- GitHub Stats (Pure Cyber Red: #08090D background, #FF1744 border, #FF1744 icons & title) -->
+<img src="https://github-readme-stats.vercel.app/api?username=devanandtb1-max&show_icons=true&bg_color=08090D&border_color=FF1744&icon_color=FF1744&title_color=FF1744&text_color=F5F5F5&hide_border=false&rank_icon=github&count_private=true" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<!-- Top Languages (Cyberpunk Palette: #08090D background, #00D9FF border) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanandtb1-max&layout=compact&bg_color=08090D&border_color=00D9FF&title_color=00D9FF&text_color=F5F5F5&langs_count=8&hide_border=false" height="180" alt="Top Languages"/>
+<!-- Top Languages (Pure Cyber Red: #08090D background, #FF1744 border & title) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanandtb1-max&layout=compact&bg_color=08090D&border_color=FF1744&title_color=FF1744&text_color=F5F5F5&langs_count=8&hide_border=false" height="180" alt="Top Languages"/>
 
 </div>
 
@@ -193,8 +193,8 @@ My core focus centers on the intersection of **applied machine learning, enterpr
 
 <div align="center">
 
-<!-- GitHub Streak Stats (Neon Red & Electric Blue on #08090D) -->
-<img src="https://streak-stats.demolab.com?user=devanandtb1-max&theme=dark&background=08090D&border=FF1744&ring=00D9FF&fire=FF1744&currStreakLabel=FF1744&sideLabels=A0A6B5&dates=A0A6B5" alt="GitHub Streak"/>
+<!-- GitHub Streak Stats (All Red: #FF1744 ring, fire, border on #08090D) -->
+<img src="https://streak-stats.demolab.com?user=devanandtb1-max&theme=dark&background=08090D&border=FF1744&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&sideLabels=A0A6B5&dates=A0A6B5" alt="GitHub Streak"/>
 
 </div>
 
@@ -202,8 +202,8 @@ My core focus centers on the intersection of **applied machine learning, enterpr
 
 <div align="center">
 
-<!-- GitHub Activity Graph (Electric Blue Line with Neon Red Area on #08090D) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devanandtb1-max&bg_color=08090D&color=00D9FF&line=00D9FF&point=FF1744&area=true&hide_border=false&border_color=9D4EDD" width="95%" alt="Activity Graph"/>
+<!-- GitHub Activity Graph (Neon Red Line and Points on #08090D) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devanandtb1-max&bg_color=08090D&color=FF1744&line=FF1744&point=FFFFFF&area=true&hide_border=false&border_color=FF1744" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -213,7 +213,7 @@ My core focus centers on the intersection of **applied machine learning, enterpr
 
 <div align="center">
 
-[![Live Portfolio](https://img.shields.io/badge/CYBER_MODE-LIVE_HUD-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=08090D)](https://devanandtb1-max.github.io/cyber_mode/)
+[![Live Portfolio](https://img.shields.io/badge/CYBER_MODE-LIVE_HUD-FF1744?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devanandtb1-max.github.io/cyber_mode/)
 [![GitHub](https://img.shields.io/badge/GITHUB-devanandtb1--max-11141B?style=for-the-badge&logo=github&logoColor=F5F5F5)](https://github.com/devanandtb1-max)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-DEV_NAND-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devanandtb)
 [![Email](https://img.shields.io/badge/TRANSMIT-EMAIL-FF1744?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devanandtb1@gmail.com)
@@ -224,7 +224,7 @@ My core focus centers on the intersection of **applied machine learning, enterpr
 
 <div align="center">
 
-<!-- Capsule Render Waving Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,25:9D4EDD,65:FF1744,100:08090D&height=130&section=footer&text=CYBERNETIC%20SYSTEMS%20%2F%2F%20INTELLIGENT%20AUTOMATION%20%E2%80%94%20SHIPPED%20WITH%20PRECISION&fontSize=16&fontColor=F5F5F5&fontAlignY=65&animation=fadeIn" width="100%" alt="Footer Banner"/>
+<!-- Capsule Render Waving Footer (Pure Red Palette) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,35:D6001C,70:36000A,100:08090D&height=130&section=footer&text=CYBERNETIC%20SYSTEMS%20%2F%2F%20INTELLIGENT%20AUTOMATION%20%E2%80%94%20SHIPPED%20WITH%20PRECISION&fontSize=16&fontColor=F5F5F5&fontAlignY=65&animation=fadeIn" width="100%" alt="Footer Banner"/>
 
 </div>
